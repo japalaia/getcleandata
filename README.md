@@ -14,13 +14,13 @@ project assignment for getting and cleaning data cours
 4.Appropriately labels the data set with descriptive variable names. 
 
 From the data set in step 4, creates a second, independent tidy data set with the average
-#of each variable for each activity and each subject."
+of each variable for each activity and each subject."
  
-# The Tidy Data Set
-# 1.Each variable you should measure be in one column
-# 2.Each different observation should be in a different row
-# 3.There should be one table for each "kind" of variable
-# 4.If you have multiple tables you should have a common key in each table
+The Tidy Data Set
+1.Each variable you should measure be in one column
+2.Each different observation should be in a different row
+3.There should be one table for each "kind" of variable
+4.If you have multiple tables you should have a common key in each table
 
 
 
